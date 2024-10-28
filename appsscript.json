@@ -1,0 +1,79 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "FILTRAR ENTRADAS",
+      "functionName": "FILTRARENTRADAS"
+    }, {
+      "menuName": "LIMPAR FILTRO",
+      "functionName": "LIMPARFILTRO"
+    }, {
+      "menuName": "FILTRAR SAIDAS",
+      "functionName": "FILTRARSAIDAS"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título 1",
+      "functionName": "myFunction1"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título 1",
+      "functionName": "myFunction1"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título 1",
+      "functionName": "myFunction1"
+    }, {
+      "menuName": "Macro sem título",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "Macro sem título 1",
+      "functionName": "myFunction1"
+    }]
+  }
+}
