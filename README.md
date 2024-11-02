@@ -4,7 +4,7 @@
 
 <p align="left">A ideia é ter um controle de caixotes em um estoque que será considerado secundário.<br>São quatro telas com duas automatizadas.
   <br/>
-  <a aligh="left" href="https://drive.google.com/drive/folders/17wnil5AGn7LbXSotqLPV3bb36ihc38Nm?usp=sharing" target="_blank">Acesse a planilha clicando aqui.</a>
+  <a aligh="left" href="https://drive.google.com/drive/folders/17wnil5AGn7LbXSotqLPV3bb36ihc38Nm?usp=sharing" target="_blank" rel="noopener noreferrer">Acesse a planilha clicando aqui.</a>
 </p>
 
 ###
